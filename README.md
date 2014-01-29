@@ -2,6 +2,8 @@
 
 [![NPM](https://nodei.co/npm/single-prompt.png?downloads=true&stars=true)](https://npmjs.org/package/single-prompt)
 
+## Renamed to [keypress-prompt](https://npmjs.org/package/keypress-prompt)
+
 `single-prompt` is a simple prompter to get a single character or digit
 on the console:
 
